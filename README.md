@@ -8,4 +8,4 @@ A WIP travel blog
 
 ## Tech Stack
 
-React, JSX, JavaScript, Vite, CSS
+React, JSX, Vite, CSS
